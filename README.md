@@ -10,7 +10,7 @@ Driving lane lines detection using OpenCV. Following techniques are used:
 
 #### Files
 - [`README.md`](http://github.com/kkweon/lane-detection/blob/master/README.md): this file
-- [`P1.ipynb`](http://github.com/kkweon/lane-detection/blob/master/P1.ipynb): Jupyter Notebook file
+- [`P1.ipynb`](https://nbviewer.jupyter.org/github/kkweon/lane-detection/blob/master/P1.ipynb?flush_cache=true): Jupyter Notebook file
 - `*.mp4` or `*.jpg`: used data
 
 ##1. Description of pipelines
